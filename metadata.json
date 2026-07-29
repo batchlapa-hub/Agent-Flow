@@ -1,0 +1,6 @@
+{
+  "name": "PromptNode - Dynamic Agent Workflow Canvas",
+  "description": "An interactive n8n-style canvas for dynamic linking of AI agents, where new workflow nodes and actions are generated via natural language prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
